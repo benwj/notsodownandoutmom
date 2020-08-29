@@ -3,7 +3,7 @@ title: "Where It All Began..."
 date: 2020-08-29T10:39:22-04:00
 ---
 
-![vera](/began/vera.jpg)
+![vera](/began/began1.jpg)
 
 I've always wanted to be a mom.  I was the first-born in a family of three and I think I've always fit into that stereotypical "first-born" mold.  I always liked to be in-charge, set the rules, and have a certain amount of control of what was around me. Boy did that change when I became a mom! My son, Miles, was born in 2015 on Star Wars Day (if you knew how much my husband is into "Nerd Culture" you'd understand what a big deal this is).  Just as his mother did, Miles immediately fit the "first-born" mold.  He was a rule-follower from the very beginning: no baby-proofing needed with him!  He began talking before he turned one and took his first steps on his first birthday.  By all accounts, Miles was the typical first-born boy: cautious, sensitive, stubborn, and he absorbed things like a sponge (he still does)!  As tough as years two and three were with Miles, my husband and I still felt like we were nailing this parenting game.  We kept our kid alive and happy, and for the most part we seemed to manage the working-parent lifestyle.
 
@@ -16,6 +16,7 @@ We learned we were having baby number two!  This was an exciting moment for us. 
 
 Long story short, that August I miscarried.  It was quite a blow to our systems.  We had such a smooth-sailing experience the first time around.  It took several months to move past the heartbreak (a blog post for another day).  Finally, on Christmas Eve that very same year, we found out we were having another baby.  Christmas Eve was my grandmother, Margaret's, birthday.  It was a day that always held importance to me.  I felt like this was the first subtle sign that were in for quite an adventure with this new baby.
 
+![vera](/began/began2.jpg)
 
 Vera Margaret was born on a hot Wednesday on August 29, 2018.  She came a week earlier than her due date.  She came into the world without too much fuss.  Clearly she was just tired of being on the inside and needed to make her grand entrance.  I had dealt with a lot of anxiety during my pregnancy with Vera (yet another blog post for another day).  When she was held up over the curtain for me to see I was just so thrilled that she was alive and here.  I couldn't wait to just hold her and feel that sense of calm that I had been waiting for.  My husband, Ben, on the other hand, had a very different reaction when the doctors held Vera up for that first time.  I don't know what specifically clued him in that something unexpected had happened: maybe it was her tongue that she couldn't keep in her mouth, the extra thickness in the back of her neck, or the uniqueness in her beautiful baby eyes.  Whatever it was, Ben's very first thought when Vera was held up was, "Oh my God...our baby has Down Syndrome."  
 
@@ -25,6 +26,7 @@ Vera was taken out of the operating room for the usual rounds of tests and monit
 
 Our pediatrician visited the hospital the next morning and did her routine examinations of Vera.  Shortly after, she came to our room and sat at the edge of my bed.  I was sitting in a chair across from the bed, just glad I was able to move around post-surgery.  The doctor took a deep breath and said, "Okay, so here are some things I observed with Vera."  She started with the positives: she seems healthy overall and she was impressed with how chill this baby is (we were equally as impressed considering our first-born had and still has zero-chill).  Then, she said it: "Vera is showing some physical attributes of Down Syndrome and I'm going to order blood work to test her for it."  In that moment, the room fell silent.  Ben held his head low, nodding in a way that says, "I knew it".  In most situations, a new mom would most likely begin crying, but in that moment the only words I could muster up were, "Okay, so...what do we do about that?"  
 
+![vera](/began/began3.jpg)
 
 I should mention before continuing that we have the BEST pediatrician in the world.  I mean, the absolute best.  She calmly explained to us what the next steps were and how to get the ball rolling on finding the right specialists to take Vera to.  The entire time she remained calm, positive, and assuring.  I think it was her demeanor that prevented me from absolutely breaking down.  In fact, when I think back to that day I don't think I cried at all.  I think there was just so much to process that my "first-born" instincts kicked in and I just needed to figure out how to get control of the situation and do what needed to be done for Vera.  
 
