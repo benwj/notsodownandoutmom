@@ -4,4 +4,4 @@ git add .
 git commit -m "mom"
 git push
 hugo -D
-hugo deploy
+hugo deploy --maxDeletes -1 --invalidateCDN

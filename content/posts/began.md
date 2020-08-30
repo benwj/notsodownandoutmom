@@ -26,7 +26,7 @@ Vera was taken out of the operating room for the usual rounds of tests and monit
 
 Our pediatrician visited the hospital the next morning and did her routine examinations of Vera.  Shortly after, she came to our room and sat at the edge of my bed.  I was sitting in a chair across from the bed, just glad I was able to move around post-surgery.  The doctor took a deep breath and said, "Okay, so here are some things I observed with Vera."  She started with the positives: she seems healthy overall and she was impressed with how chill this baby is (we were equally as impressed considering our first-born had and still has zero-chill).  Then, she said it: "Vera is showing some physical attributes of Down Syndrome and I'm going to order blood work to test her for it."  In that moment, the room fell silent.  Ben held his head low, nodding in a way that says, "I knew it".  In most situations, a new mom would most likely begin crying, but in that moment the only words I could muster up were, "Okay, so...what do we do about that?"  
 
-#![vera3](/began/began3.jpg)
+![vera3](/began/began3.jpg)
 
 I should mention before continuing that we have the BEST pediatrician in the world.  I mean, the absolute best.  She calmly explained to us what the next steps were and how to get the ball rolling on finding the right specialists to take Vera to.  The entire time she remained calm, positive, and assuring.  I think it was her demeanor that prevented me from absolutely breaking down.  In fact, when I think back to that day I don't think I cried at all.  I think there was just so much to process that my "first-born" instincts kicked in and I just needed to figure out how to get control of the situation and do what needed to be done for Vera.  
 
