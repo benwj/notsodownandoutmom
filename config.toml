@@ -54,6 +54,12 @@ disableLanguages        = []
     hideWhenSingleColumn  = false
     alwaysOnHomepage      = false
 
+  [params.intro.pic]
+    src                 = "img/arrow-red.jpeg"
+    shape               = "rectangle"
+    width               = "300"
+    alt                 = "DS"
+
   [params.sidebar]
     about               = " "
     postAmount          = 5
