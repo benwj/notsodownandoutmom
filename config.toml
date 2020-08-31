@@ -55,9 +55,9 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
   [params.intro.pic]
-    src                 = "/arrowred.jpeg"
+    src                 = "arrowred.jpeg"
     shape               = "rectangle"
-    width               = "300"
+    width               = "100"
     alt                 = "DS"
 
   [params.sidebar]
