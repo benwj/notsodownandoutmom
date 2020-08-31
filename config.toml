@@ -54,11 +54,11 @@ disableLanguages        = []
     hideWhenSingleColumn  = false
     alwaysOnHomepage      = false
 
-  [params.intro.pic]
-    src                 = "/logos/arrowred.jpg"
-    shape               = "rectangle"
-    width               = "100"
-    alt                 = "DS"
+#  [params.intro.pic]
+#    src                 = "/logos/arrowred.jpg"
+#    shape               = "rectangle"
+#    width               = "100"
+#    alt                 = "DS"
 
   [params.sidebar]
     about               = " "
