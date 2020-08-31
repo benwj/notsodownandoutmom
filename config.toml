@@ -55,7 +55,7 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
   [params.intro.pic]
-    src                 = "arrowred.jpeg"
+    src                 = "/arrowred.jpg"
     shape               = "rectangle"
     width               = "100"
     alt                 = "DS"
