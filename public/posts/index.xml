@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>My Next Post</title>
-      <link>https://example.com/posts/next/</link>
-      <pubDate>Sat, 29 Aug 2020 10:39:22 -0400</pubDate>
-      
-      <guid>https://example.com/posts/next/</guid>
-      <description>ok</description>
-    </item>
-    
-    <item>
       <title>Where It All Began...</title>
       <link>https://example.com/posts/began/</link>
       <pubDate>Sat, 29 Aug 2020 10:39:22 -0400</pubDate>
