@@ -1,6 +1,7 @@
 ---
 title: "Where It All Began..."
 date: 2020-08-29T10:39:22-04:00
+comments: false
 ---
 
 ![vera1](/began/began1.jpg)
