@@ -296,6 +296,9 @@ disableLanguages        = []
       pre               = "<i class='far fa-envelope'></i>"
       weight            = 6
 
+[permalinks]
+  posts = "/:slug"
+
 [deployment]
 # By default, files are uploaded in an arbitrary order.
 # Files that match the regular expressions in the "Order" list
