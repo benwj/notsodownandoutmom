@@ -5,6 +5,8 @@ slug: specialneedskidsandsiblings
 comments: false
 ---
 
+![siblings3](/siblings/siblings3.jpg)
+
 I remember the day my son Miles was born.  It was in May.  I had just spent the last 15 hours in labor.  Long story short, it was a complicated birth.  It was almost the universe’s way of telling us that we were in for a real adventure with our son.  Since the day he was born, Miles has had a very **bold** personality! Ben and I always knew it just wouldn’t be fair to keep him an only child.  He needed a sibling to entertain, and pronto!
 
 When I was pregnant with Vera, Miles was going through a very big “planets” phase.  He LOVED reading about planets, singing songs about planets, memorizing facts about planets.  It became such a huge part of his life that he kept insisting that we name his baby sister Neptune.  Anytime he referred to the baby, he referred to her as Neptune.  When it was time for me to go to the hospital, all he could think of was meeting Neptune.  We introduced him to his sister and called her Vera, his first response was, _“But I thought her name was Neptune!”_. Sorry, kid!
@@ -38,6 +40,3 @@ We’ve spent a lot of the last two years figuring out ways to make sure Miles k
 5. **Milestones**: Let your older child be a big part of the milestones. We are currently trying to get Vera to walk by herself.  Miles has been a great motivator for her.  He stands nearby ready to catch her if she falls and gets to celebrate her big moment when she does take her steps!
 
 I’m so grateful for the relationship our two kids have with each other.  We were very nervous during Vera’s early months that we were going to see a regression of behavior in our son, but we’ve been relieved to see how much they’ve developed together.  Miles tells his sister every day how much he loves her.  He has become her protector and her biggest supporter. In return, he has become Vera’s absolute favorite person.  As their mom, I couldn’t be prouder!
-
-![siblings3](/siblings/siblings3.jpg)
-
