@@ -7,11 +7,7 @@ comments: false
 
 I remember the day my son Miles was born.  It was in May.  I had just spent the last 15 hours in labor.  Long story short, it was a complicated birth.  It was almost the universe’s way of telling us that we were in for a real adventure with our son.  Since the day he was born, Miles has had a very **bold** personality! Ben and I always knew it just wouldn’t be fair to keep him an only child.  He needed a sibling to entertain, and pronto!
 
-When I was pregnant with Vera, Miles was going through a very big “planets” phase.  He LOVED reading about planets, singing songs about planets, memorizing facts about planets.  It became such a huge part of his life that he kept insisting that we name his baby sister Neptune.  Anytime he referred to the baby, he referred to her as Neptune.  When it was time for me to go to the hospital, all he could think of was meeting Neptune.  We introduced him to his sister and called her Vera, his first response was, 
-
-> “But I thought her name was Neptune!” 
-
-Sorry, kid!
+When I was pregnant with Vera, Miles was going through a very big “planets” phase.  He LOVED reading about planets, singing songs about planets, memorizing facts about planets.  It became such a huge part of his life that he kept insisting that we name his baby sister Neptune.  Anytime he referred to the baby, he referred to her as Neptune.  When it was time for me to go to the hospital, all he could think of was meeting Neptune.  We introduced him to his sister and called her Vera, his first response was, _“But I thought her name was Neptune!”_. Sorry, kid!
 
 ## The Big Introduction
 

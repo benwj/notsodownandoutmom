@@ -475,7 +475,6 @@ figcaption {
   @media (min-width: 768px) {
     .title {
       width: 75%; } }
-
 .meta {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -616,7 +615,6 @@ figcaption {
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap; } }
-
 .left::before,
 .right::before {
   font-family: "Font Awesome 5 Free";
@@ -679,7 +677,6 @@ figcaption {
         border-bottom: 0; }
       .link:first-of-type {
         border: 0; } }
-
 .nav-title {
   align-items: center;
   display: -webkit-box;
@@ -712,7 +709,6 @@ figcaption {
         min-width: 12.5em; }
         .nav-title a img {
           margin-top: -0.2em; } }
-
 .share-toggle,
 .search-toggle {
   display: none; }
@@ -725,7 +721,6 @@ figcaption {
       .share-toggle i,
       .search-toggle i {
         vertical-align: middle; } }
-
 .nav-toggle {
   text-align: center;
   width: 61px; }
@@ -919,7 +914,6 @@ figcaption {
       @media (min-width: 425px) {
         #site-nav .flyout-menu .share-toggle, #site-nav .flyout-menu .search-toggle {
           display: none; } }
-
 #search {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1172,13 +1166,11 @@ figcaption {
     @media (min-width: 375px) {
       .comment header div {
         flex-direction: row; } }
-
 .comment.comment-reply {
   margin-left: 1.875em; }
   @media (min-width: 375px) {
     .comment.comment-reply {
       margin-left: 3.75em; } }
-
 .comment-author-container {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1195,7 +1187,6 @@ figcaption {
     .comment-author-container {
       flex-direction: row;
       align-items: center; } }
-
 .comment-avatar {
   margin: 0 0 0 1em;
   width: 3.75em;
@@ -1207,7 +1198,6 @@ figcaption {
       .comment-avatar.circle {
         -webkit-clip-path: none;
         clip-path: none; } }
-
 .comment-author {
   font-size: 0.9em;
   margin: 0; }
@@ -1216,7 +1206,6 @@ figcaption {
       margin-right: .5em;
       padding-right: .5em;
       border-right: 1px solid rgba(161, 161, 161, 0.3); } }
-
 .comment-reply-btn {
   border: 0; }
   .comment-reply-btn::before {
@@ -1228,7 +1217,6 @@ figcaption {
   @media (min-width: 375px) {
     .comment-reply-btn {
       margin-right: 1.5em; } }
-
 .comment-content {
   margin: 1em; }
 
@@ -1359,7 +1347,7 @@ figcaption {
     position: relative;
     top: 2px;
     box-shadow: none;
-    color: #e6e5e5; }
+    color: #e6e6e6; }
   .share-btn:hover {
     color: white; }
 
@@ -1422,7 +1410,6 @@ figcaption {
       display: -ms-flexbox;
       display: -webkit-flex;
       display: flex; } }
-
 /* ==========================================================================
    Helper classes
    ========================================================================== */

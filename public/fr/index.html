@@ -6,10 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-<meta name="generator" content="Hugo 0.59.1" /><meta itemprop="name" content="The Not So Down and Out Mom en français">
-<meta itemprop="description" content="Un thème par HTML5 UP, porté par Julio Pescador. Simplifié et amélioré par Patrick Collins. Multilingue par StatnMap. Propulsé par Hugo.">
-
-<meta property="og:title" content="The Not So Down and Out Mom en français" />
+<meta name="generator" content="Hugo 0.68.3" /><meta itemprop="name" content="The Not So Down and Out Mom en français">
+<meta itemprop="description" content="Un thème par HTML5 UP, porté par Julio Pescador. Simplifié et amélioré par Patrick Collins. Multilingue par StatnMap. Propulsé par Hugo."><meta property="og:title" content="The Not So Down and Out Mom en français" />
 <meta property="og:description" content="Un thème par HTML5 UP, porté par Julio Pescador. Simplifié et amélioré par Patrick Collins. Multilingue par StatnMap. Propulsé par Hugo." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://example.com/fr/" />
@@ -17,7 +15,7 @@
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="The Not So Down and Out Mom en français"/>
 <meta name="twitter:description" content="Un thème par HTML5 UP, porté par Julio Pescador. Simplifié et amélioré par Patrick Collins. Multilingue par StatnMap. Propulsé par Hugo."/>
-<link rel="stylesheet" href="/css/bundle.min.2258e0f098dadd9d4ad9887f91208a4f7f6ed3a3a2a3fbd5c9851fc8608fd0af.css" integrity="sha256-Iljg8Jja3Z1K2Yh/kSCKT39u06Oio/vVyYUfyGCP0K8="><link rel="stylesheet" href="/css/add-on.css">
+<link rel="stylesheet" href="/css/bundle.min.d9e04ae08c9b3049b766dbd4aeab7d862c5ea1d13679b621490e0f5df5507497.css" integrity="sha256-2eBK4IybMEm3ZtvUrqt9hixeodE2ebYhSQ4PXfVQdJc="><link rel="stylesheet" href="/css/add-on.css">
 </head>
 
   <body>
@@ -29,28 +27,21 @@
       <hr>
       <h5 style="color:#f4f4f4;text-align:center;"><i class="fas fa-exclamation-triangle"></i>Version 2.0.0 - July 20, 2020<i class="fas fa-exclamation-triangle"></i></h5>
     <p>Below are the following changes that <em>could</em> be breaking changes for your site. For more details on any change, please refer to <a href="https://github.com/pacollins/hugo-future-imperfect-slim/pull/154">PR #154</a>.</p>
-
 <p>The major breaking change is:</p>
-
 <ol>
-<li><p>Users that have front matter that utilize <code>images</code> (backwards compatibility for <code>featured</code> and associated parameters still remains) <em>will</em> need to adjust from <code>[images]=&quot;SRC&quot;</code> to the new format.</p>
-
-<pre><code>[[images]]
-src = &quot;&quot; // Link to image
-alt = &quot;&quot; // Alt text for image
-stretch = // Optional: See screenshots for referenced values and outcomes
-</code></pre></li>
+<li>Users that have front matter that utilize <code>images</code> (backwards compatibility for <code>featured</code> and associated parameters still remains) <em>will</em> need to adjust from <code>[images]=&quot;SRC&quot;</code> to the new format.</li>
 </ol>
-
-<p>If you utilize any of the following, there <em>might</em> be a breaking:</p>
-
+<pre><code>[[images]]
+    src = &quot;&quot; // Link to image
+    alt = &quot;&quot; // Alt text for image
+    stretch = // Optional: See screenshots for referenced values and outcomes
+</code></pre><p>If you utilize any of the following, there <em>might</em> be a breaking:</p>
 <ol>
 <li>User custom templates <em>may</em> require adjustment.</li>
 <li>User custom i18n languages, or custom templates referencing i18n translations <em>may</em> require adjustment.</li>
 <li>User custom template for comments <em>will</em> require adjustment <em>if</em> it uses the theme&rsquo;s CSS and/or JS.</li>
 <li>User custom CSS <em>may</em> need to adjust due to a variety of class name changes and specificity changes.</li>
 </ol>
-
 <p>While I realize this is inconvenient, I hope that it is worth it to you in the long run. Thanks for using the theme, and feel free to submit issues as needed.</p>
 
     <div style="text-align:center;">
@@ -297,7 +288,7 @@ stretch = // Optional: See screenshots for referenced values and outcomes
   <p class="copyright">
     © 1 The Not So Down and Out Mom en français
       <br>
-    Thème : <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>Un <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>portage de HTML5 UP</a> | Propulsé par <a href='https://gohugo.io/' title='0.59.1' target='_blank' rel='noopener'>Hugo</a>
+    Thème : <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>Un <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>portage de HTML5 UP</a> | Propulsé par <a href='https://gohugo.io/' title='0.68.3' target='_blank' rel='noopener'>Hugo</a>
   </p>
 </footer>
 <a id="back-to-top" href="#" class="fas fa-arrow-up fa-2x"></a>
