@@ -4,17 +4,12 @@
   
   <url>
     <loc>https://example.com/posts/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/specialneedskidsandsiblings/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -65,6 +60,16 @@
                 hreflang="en"
                 href="https://example.com/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://example.com/specialneedskidsandcommunity/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/specialneedskidsandsiblings/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>

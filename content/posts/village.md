@@ -5,6 +5,8 @@ slug: specialneedskidsandcommunity
 comments: false
 ---
 
+![Just Chillin](/village/village3.jpg)
+
 As we come to the end of October, which is Down Syndrome Awareness Month, I’m often reminded of one of the most important parts of our parenting journey: our village.  As I scrolled through social media this month I saw post after post of really inspiring messages from other families that are on the Down Syndrome adventure just as we are.  While reading these beautiful posts I was reminded of something very important: I’m not alone.
 
 I remember sitting in the pediatrician’s office as she told us the results of Vera’s blood tests at birth.  There were probably a million thoughts buzzing through my head as she told us the diagnosis.  Going home that day, I remember feeling very isolated.  I knew we always had our friends and family to offer us support, but I couldn’t shake the feeling that we were suddenly going to become the family that “can’t do anything” anymore.  I feel like there is such a stigma that follows parents of children with special needs: like their children are just going to be too much trouble for them to even have time to live their lives normally.  Would we become part of that stereotype?  We quickly began to realize that we would not.
