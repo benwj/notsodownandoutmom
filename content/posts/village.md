@@ -5,7 +5,7 @@ slug: specialneedskidsandcommunity
 comments: false
 ---
 
-![Just Chillin](/village/village3.jpg)
+![Just Chillin](/village/village0.jpg)
 
 As we come to the end of October, which is Down Syndrome Awareness Month, I’m often reminded of one of the most important parts of our parenting journey: our village.  As I scrolled through social media this month I saw post after post of really inspiring messages from other families that are on the Down Syndrome adventure just as we are.  While reading these beautiful posts I was reminded of something very important: I’m not alone.
 
