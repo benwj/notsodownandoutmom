@@ -1,6 +1,6 @@
 ---
 title: "A Season of Gratitude"
-date: 2020-09-27
+date: 2020-12-31
 slug: seasonofgratitude
 comments: false
 ---
