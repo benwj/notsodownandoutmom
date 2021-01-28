@@ -5,9 +5,9 @@ slug: managingtheseasons
 comments: false
 ---
 
-![seasonaledepression0](/seasonaledepression/seasonaledepression0.JPG)
+![seasonaledepression0](/seasonaldepression/seasonaldepression0.JPG)
 
-# A Quiet Battle#
+## A Quiet Battle
 
 During the last year it has been very obvious that our country as a whole has been having a tough time.  Covid-19 hit us very rapidly and within days our world was changed.  Often, I think about the typical battles we fight in our everyday lives: parenting challenges, work challenges, relationship challenges, emotional challenges.  Now, we’re all forced to manage those challenges in the middle of a pandemic.  I think we can all relate to the idea that our minds and bodies cannot handle much more madness thrown at us.  However, there is another battle that many, many people have to fight during this time of year: Seasonal Depression and Anxiety.  Why bring this up in a blog about special needs parenting?  Well, because like many people, I, myself, have had my own battles with anxiety and depression (and still do) and these battles often have a large effect on my parenting life.
 
@@ -25,7 +25,7 @@ I’ve been reading up lately on things I can do to make this pandemic winter mo
 
 I found this great graphic from Johns Hopkins and I think it offers a lot of insight into Seasonal Affective Disorder.  I also appreciate the suggestions on how to combat the symptoms.
 
-![seasonaledepression1](/seasonaledepression/seasonaledepression1.JPG)                 
+![seasonaledepression1](/seasonaldepression/seasonaldepression1.JPG)                 
 
 ## Depression, Anxiety and Toxic Positivity
 
@@ -33,7 +33,7 @@ Often it is hard to think of the right words to say to someone who is dealing wi
 >“the excessive and ineffective overgeneralization of a happy and optimistic state in any situation--in the denial, minimization, and invalidation of genuine human emotional experience”.  
 In short, when a person is going through something difficult, trying to insist on positivity only makes that person feel worse.  The best thing you can do for someone battling any kind of emotional issue is to just be **MINDFUL**: mindful of their situation, but most importantly, mindful of your language.  The words you choose to use to support people matter!  Again, I’m displaying another graphic because I really think it gives such useful ways to change your language.  This display is from [The Minds Journal](https://themindsjournal.com/) 
 
-![seasonaledepression2](/seasonaledepression/seasonaledepression2.JPG)  
+![seasonaledepression2](/seasonaldepression/seasonaldepression2.JPG)  
 
 After reading that graphic, I am sure you all thought the same thing I did initially: “oh no, I’ve said some of these things to people!”  It’s okay!  Using these phrases doesn’t make you a bad person and it doesn’t mean you’re not being supportive.  Everyone is well-intentioned when using these phrases.  How great is it, though, that we have resources like this that bring awareness to our language?  Now I have a better understanding of how to speak to my friends and family members when they’re hurting.
 

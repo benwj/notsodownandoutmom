@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The Not So Down and Out Mom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Managing the Seasons</title>
+      <link>https://example.com/managingtheseasons/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/managingtheseasons/</guid>
+      <description>A Quiet Battle# During the last year it has been very obvious that our country as a whole has been having a tough time. Covid-19 hit us very rapidly and within days our world was changed. Often, I think about the typical battles we fight in our everyday lives: parenting challenges, work challenges, relationship challenges, emotional challenges. Now, we’re all forced to manage those challenges in the middle of a pandemic.</description>
+    </item>
     
     <item>
       <title>A Season of Gratitude</title>
@@ -27,15 +36,6 @@
       
       <guid>https://example.com/specialneedskidsandcommunity/</guid>
       <description>As we come to the end of October, which is Down Syndrome Awareness Month, I’m often reminded of one of the most important parts of our parenting journey: our village. As I scrolled through social media this month I saw post after post of really inspiring messages from other families that are on the Down Syndrome adventure just as we are. While reading these beautiful posts I was reminded of something very important: I’m not alone.</description>
-    </item>
-    
-    <item>
-      <title>Managing the Seasons</title>
-      <link>https://example.com/managingtheseasons/</link>
-      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/managingtheseasons/</guid>
-      <description>A Quiet Battle# During the last year it has been very obvious that our country as a whole has been having a tough time. Covid-19 hit us very rapidly and within days our world was changed. Often, I think about the typical battles we fight in our everyday lives: parenting challenges, work challenges, relationship challenges, emotional challenges. Now, we’re all forced to manage those challenges in the middle of a pandemic.</description>
     </item>
     
     <item>
