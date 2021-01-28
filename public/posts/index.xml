@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The Not So Down and Out Mom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Season of Gratitude</title>
+      <link>https://example.com/seasonofgratitude/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/seasonofgratitude/</guid>
+      <description>It has taken a long time for me to finally sit in front of my computer and actually start typing for this next post. I feel like over the last several months I’ve spent so much time in front of the computer screen that my brain just couldn’t handle it anymore. Lately, I’ve had a lot of extra time to think about the situation of things this year (being home 24/7 does that to you).</description>
+    </item>
     
     <item>
       <title>The Village</title>
@@ -18,15 +27,6 @@
       
       <guid>https://example.com/specialneedskidsandcommunity/</guid>
       <description>As we come to the end of October, which is Down Syndrome Awareness Month, I’m often reminded of one of the most important parts of our parenting journey: our village. As I scrolled through social media this month I saw post after post of really inspiring messages from other families that are on the Down Syndrome adventure just as we are. While reading these beautiful posts I was reminded of something very important: I’m not alone.</description>
-    </item>
-    
-    <item>
-      <title>A Season of Gratitude</title>
-      <link>https://example.com/seasonofgratitude/</link>
-      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/seasonofgratitude/</guid>
-      <description>It has taken a long time for me to finally sit in front of my computer and actually start typing for this next post. I feel like over the last several months I’ve spent so much time in front of the computer screen that my brain just couldn’t handle it anymore. Lately, I’ve had a lot of extra time to think about the situation of things this year (being home 24/7 does that to you).</description>
     </item>
     
     <item>
