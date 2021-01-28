@@ -1,6 +1,6 @@
 ---
 title: "Managing the Seasons"
-date: 2020-09-27
+date: 2021-01-27
 slug: managingtheseasons
 comments: false
 ---
