@@ -31,7 +31,7 @@ I found this great graphic from Johns Hopkins and I think it offers a lot of ins
 
 Often it is hard to think of the right words to say to someone who is dealing with depression or anxiety.  If you can’t directly relate to them, then it becomes hard to truly empathize.  However, there are things you can do to help a loved one while they fight their battles, *even during a pandemic*.  So often, though, I think the first thing we all think of is “positivity”.  Let’s just spread some positivity and then everyone will feel better!  Unfortunately, this is probably the least helpful approach.  According to Tanglaw Mental Health, Toxic Positivity is defined as:
 
->“the excessive and ineffective overgeneralization of a happy and optimistic state in any situation--in the denial, minimization, and invalidation of genuine human emotional experience”.  
+>“The excessive and ineffective overgeneralization of a happy and optimistic state in any situation--in the denial, minimization, and invalidation of genuine human emotional experience”.  
 
 In short, when a person is going through something difficult, trying to insist on positivity only makes that person feel worse.  The best thing you can do for someone battling any kind of emotional issue is to just be **MINDFUL**: mindful of their situation, but most importantly, mindful of your language.  The words you choose to use to support people matter!  Again, I’m displaying another graphic because I really think it gives such useful ways to change your language.  This display is from [The Minds Journal](https://themindsjournal.com/) 
 
