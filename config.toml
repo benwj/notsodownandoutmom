@@ -44,7 +44,7 @@ link = "plugins/search/search.js"
 
 # navigation
 [[menu.main]]
-name = "Homepage"
+name = "Home"
 url = ""
 weight = 1
 hasChildren = true
@@ -64,10 +64,10 @@ name = "About"
 url = "about"
 weight = 2
 
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 3
+#[[menu.main]]
+#name = "Contact"
+#url = "contact"
+#weight = 3
 
 # deult parameter
 [params]
@@ -84,7 +84,7 @@ search = true
 # about author
 author = "The Not So Down and Out Mom"
 author_image = "images/banner-img.png"
-bio = "I’m a Mom"
+bio = "A blog for parents on the special-needs journey!"
 # Contact Form Action
 contact_form_action = "#"
 # Google Analitycs
