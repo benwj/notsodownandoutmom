@@ -1,358 +1,124 @@
-# For a description of these parameters, please visit the theme wiki.
-# https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://example.com/"
-DefaultContentLanguage  = "en"
-title                   = "The Not So Down and Out Mom"
-theme                   = "hugo-future-imperfect-slim"
-paginate                = 3
-disqusShortname         = ""
-googleAnalytics         = ""
-pluralizeListTitles     = false
-disableLanguages        = []
+# default config
+baseurl = "https://notsodownandoutmom.com"
+languageCode = "en-us"
+title = "The Not So Down and Out Mom"
+theme = "parsa-hugo"
+summaryLength = "10"
+paginate = 6
 
-[markup.goldmark.renderer]
-  unsafe                = true
-
+# output
 [outputs]
-  home                  = ["html", "json"]
+home = ["HTML", "RSS", "JSON"]
 
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/headroom/headroom.js"
+[[params.plugins.js]]
+link = "plugins/instafeed/instafeed.min.js"
+[[params.plugins.js]]
+link = "plugins/masonry/masonry.js"
+[[params.plugins.js]]
+link = "plugins/reading-time/readingTime.min.js"
+[[params.plugins.js]]
+link = "plugins/smooth-scroll/smooth-scroll.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+# navigation
+[[menu.main]]
+name = "Home"
+url = ""
+weight = 1
+hasChildren = true
+
+#  [[menu.main]]
+#  parent = "Homepage"
+#  name = "Homepage 1"
+#  url = "homepage/home-1"
+
+#  [[menu.main]]
+#  parent = "Homepage"
+#  name = "Homepage 2"
+#  url = "homepage/home-2"
+
+[[menu.main]]
+name = "About"
+url = "about"
+weight = 2
+
+#[[menu.main]]
+#name = "Contact"
+#url = "contact"
+#weight = 3
+
+# deult parameter
 [params]
-  enableCDN             = false
-  cssFiles              = ["default"]
-  jsFiles               = ["default"]
-  highlightjs           = true
-  highlightjsTheme      = ""
-  highlightjsLang       = []
-  viewMorePostsLink     = "/blog/"
-  readingTime           = true
-  imageStretch          = ""
-  removeBlur            = false
-  socialShare           = []
-  hideEmptyStats        = false
+logo = "logos/crossarrows.png"
+home = "Home"
+# theme layout ( two layout is available, "1" and "2" )
+layout = "2"
+# Meta data
+description = "This is meta description"
+# Preloader
+preloader = true
+# search
+search = true
+# about author
+author = "The Not So Down and Out Mom"
+author_image = "images/banner-img.png"
+bio = "A blog for parents on the special-needs journey!"
+# Contact Form Action
+contact_form_action = "#"
+# Google Analitycs
+google_analitycs_id = "Your ID"
+# copyright
+copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 
-  [params.meta]
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
-    author              = "HTML5UP and Hugo"
-    favicon             = false
-    svg                 = true
-    faviconVersion      = "1"
-    msColor             = "#ffffff"
-    iOSColor            = "#ffffff"
+# Instagram feed
+[params.instafeed]
+enable = false
+access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
 
-  [params.header]
-    navbarTitle         = "NOTSODOWNANDOUTMOM"
-    dynamicTitles       = true
-    searchMenu          = true
-    shareMenu           = true
-    languageMenu        = true
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
 
-  [params.intro]
-    header                = "The Not So Down and Out Mom"
-    paragraph             = "A blog for parents on the special-needs journey!"
-    rssIntro              = true
-    socialIntro           = true
-    hideWhenSingleColumn  = false
-    alwaysOnHomepage      = false
+# social site
+[[params.social]]
+icon = "ti-facebook"
+enable = false
+url = "#"
 
-#  [params.intro.pic]
-#    src                 = "/logos/arrowred.jpg"
-#    shape               = "rectangle"
-#    width               = "100"
-#    alt                 = "DS"
+#[[params.social]]
+#icon = "ti-twitter-alt"
+#enable = false
+#url = "#"
 
-  [params.sidebar]
-    about               = " "
-    postAmount          = 5
-    categories          = false
-    categoriesByCount   = false
+#[[params.social]]
+#icon = "ti-linkedin"
+#enable = false
+#url = "#"
 
-  [params.footer]
-    rssFooter           = true
-    socialFooter        = true
-
-  [params.staticman]
-    enabled             = true
-    api                 = ""  # No Trailing Slash
-    gitProvider         = ""
-    username            = ""
-    repo                = ""
-    branch              = ""
-
-    [params.staticman.recaptcha]
-      siteKey           = ""
-      encryptedKey      = ""
-
-[menu]
-
-  [[menu.main]]
-    name              = "Home"
-    identifier        = "home"
-    url               = "/"
-    pre               = "<i class='fa fa-home'></i>"
-    weight            = 1
-
-  [[menu.main]]
-    name              = "About"
-    identifier        = "about"
-    url               = "/about/"
-    pre               = "<i class='far fa-id-card'></i>"
-    weight            = 2
-
-[Languages]
-
-  [Languages.en]
-    LanguageCode        = "en"
-    LanguageName        = "English"
-    weight              = 1
-
-  [Languages.fr]
-    LanguageCode        = "fr"
-    LanguageName        = "Français"
-    title               = "The Not So Down and Out Mom en français"
-    description         = "Un thème par HTML5 UP, porté par Julio Pescador. Simplifié et amélioré par Patrick Collins. Multilingue par StatnMap. Propulsé par Hugo."
-    weight              = 2
-
-    [[Languages.fr.menu.main]]
-      name              = "Accueil"
-      identifier        = "home"
-      url               = "/"
-      pre               = "<i class='fas fa-home'></i>"
-      weight            = 1
-
-    [[Languages.fr.menu.main]]
-      name              = "About"
-      identifier        = "about"
-      url               = "/about/"
-      pre               = "<i class='far fa-id-card'></i>"
-      weight            = 2
-
-    [[Languages.fr.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "/blog/"
-      pre               = "<i class='far fa-newspaper'></i>"
-      weight            = 3
-
-    [[Languages.fr.menu.main]]
-      name              = "Catégories"
-      identifier        = "categories"
-      url               = "/categories/"
-      pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 5
-
-    [[Languages.fr.menu.main]]
-      name              = "Contact"
-      identifier        = "contact"
-      url               = "/contact/"
-      pre               = "<i class='far fa-envelope'></i>"
-      weight            = 6
-
-  [Languages.pl]
-    LanguageCode        = "pl"
-    LanguageName        = "Polski"
-    title               = "The Not So Down and Out Mom po polsku"
-    description         = "Motyw HTML5 UP, przeniesiony przez Julio Pescadora i wzbogacony przez Patricka Collinsa. Wielojęzyczny przez StatnMap. Zasilany przez Hugo."
-    weight              = 2
-
-    [[Languages.pl.menu.main]]
-      name              = "Home"
-      identifier        = "home"
-      url               = "/"
-      pre               = "<i class='fas fa-home'></i>"
-      weight            = 1
-
-    [[Languages.pl.menu.main]]
-      name              = "O mnie"
-      identifier        = "about"
-      url               = "/about/"
-      pre               = "<i class='far fa-id-card'></i>"
-      weight            = 2
-
-    [[Languages.pl.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "/blog/"
-      pre               = "<i class='far fa-newspaper'></i>"
-      weight            = 3
-
-    [[Languages.pl.menu.main]]
-      name              = "Kategorie"
-      identifier        = "categories"
-      url               = "/categories/"
-      pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 5
-
-    [[Languages.pl.menu.main]]
-      name              = "Kontakt"
-      identifier        = "contact"
-      url               = "/contact/"
-      pre               = "<i class='far fa-envelope'></i>"
-      weight            = 6
-
-  [Languages.pt]
-    LanguageCode        = "pt"
-    LanguageName        = "Português"
-    title               = "The Not So Down and Out Mom em português"
-    description         = "Um tema do HTML5 UP, portado por Julio Pescadora e reduzido por Patrick Collins. Multilíngue por StatnMap. Feito com Hugo."
-    weight              = 4
-
-    [[Languages.pt.menu.main]]
-      name              = "Início"
-      identifier        = "home"
-      url               = "/"
-      pre               = "<i class='fas fa-home'></i>"
-      weight            = 1
-
-    [[Languages.pt.menu.main]]
-      name              = "Sobre"
-      identifier        = "about"
-      url               = "/about/"
-      pre               = "<i class='far fa-id-card'></i>"
-      weight            = 2
-
-    [[Languages.pt.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "/blog/"
-      pre               = "<i class='far fa-newspaper'></i>"
-      weight            = 3
-
-    [[Languages.pt.menu.main]]
-      name              = "Categorias"
-      identifier        = "categories"
-      url               = "/categories/"
-      pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 5
-
-    [[Languages.pt.menu.main]]
-      name              = "Contato"
-      identifier        = "contact"
-      url               = "/contact/"
-      pre               = "<i class='far fa-envelope'></i>"
-      weight            = 6
-
-  [Languages.de]
-    LanguageCode        = "de"
-    LanguageName        = "Deutsche"
-    weight              = 5
-
-  [Languages.es]
-    LanguageCode        = "es"
-    LanguageName        = "Española"
-    weight              = 6
-
-  [Languages.zh-CN]
-    LanguageCode        = "zh-CN"
-    LanguageName        = "中文"
-    weight              = 7
-
-  [Languages.zh-TW]
-    LanguageCode        = "zh-TW"
-    LanguageName        = "中文"
-    weight              = 8
-
-  [Languages.ja]
-    LanguageCode        = "ja"
-    LanguageName        = "日本語"
-    weight              = 9
-
-  [Languages.nl]
-    LanguageCode        = "nl"
-    LanguageName        = "Nederlands"
-    weight              = 10
-
-    [[Languages.nl.menu.main]]
-      name              = "Home"
-      identifier        = "home"
-      url               = "/"
-      pre               = "<i class='fas fa-home'></i>"
-      weight            = 1
-
-    [[Languages.nl.menu.main]]
-      name              = "Over"
-      identifier        = "about"
-      url               = "/about/"
-      pre               = "<i class='far fa-id-card'></i>"
-      weight            = 2
-
-    [[Languages.nl.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "/blog/"
-      pre               = "<i class='far fa-newspaper'></i>"
-      weight            = 3
-
-    [[Languages.nl.menu.main]]
-      name              = "Categorieën"
-      identifier        = "categories"
-      url               = "/categories/"
-      pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 5
-
-    [[Languages.nl.menu.main]]
-      name              = "Contact"
-      identifier        = "contact"
-      url               = "/contact/"
-      pre               = "<i class='far fa-envelope'></i>"
-      weight            = 6
-
-[permalinks]
-  posts = "/:slug"
-
-[deployment]
-# By default, files are uploaded in an arbitrary order.
-# Files that match the regular expressions in the "Order" list
-# will be uploaded first, in the listed order.
-order = [".jpg$", ".gif$"]
-
-
-[[deployment.targets]]
-# An arbitrary name for this target.
-name = "mydeployment"
-# The Go Cloud Development Kit URL to deploy to. Examples:
-# GCS; see https://gocloud.dev/howto/blob/#gcs
-# URL = "gs://<Bucket Name>"
-
-# S3; see https://gocloud.dev/howto/blob/#s3
-# For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
-URL = "s3://www.notsodownandoutmom.com?region=us-east-1"
-#URL = "s3://notsodownandoutmom.com?region=us-east-1"
-
-# Azure Blob Storage; see https://gocloud.dev/howto/blob/#azure
-# URL = "azblob://$web"
-
-# You can use a "prefix=" query parameter to target a subfolder of the bucket:
-# URL = "gs://<Bucket Name>?prefix=a/subfolder/"
-
-# If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
-cloudFrontDistributionID = "EDJ1VKM3OJO14"
-
-# Optionally, you can include or exclude specific files.
-# See https://godoc.org/github.com/gobwas/glob#Glob for the glob pattern syntax.
-# If non-empty, the pattern is matched against the local path.
-# All paths are matched against in their filepath.ToSlash form.
-# If exclude is non-empty, and a local or remote file's path matches it, that file is not synced.
-# If include is non-empty, and a local or remote file's path does not match it, that file is not synced.
-# As a result, local files that don't pass the include/exclude filters are not uploaded to remote,
-# and remote files that don't pass the include/exclude filters are not deleted.
-# include = "**.html" # would only include files with ".html" suffix
-# exclude = "**.{jpg, png}" # would exclude files with ".jpg" or ".png" suffix
-
-
-# [[deployment.matchers]] configure behavior for files that match the Pattern.
-# Samples:
-
-[[deployment.matchers]]
-#  Cache static assets for 1 year.
-pattern = "^.+\\.(js|css|svg|ttf)$"
-cacheControl = "max-age=31536000, no-transform, public"
-gzip = true
-
-[[deployment.matchers]]
-pattern = "^.+\\.(png|jpg)$"
-cacheControl = "max-age=31536000, no-transform, public"
-gzip = false
-
-[[deployment.matchers]]
-pattern = "^.+\\.(html|xml|json)$"
-gzip = true
+#[[params.social]]
+#icon = "ti-github"
+#enable = false
+#url = "#"
