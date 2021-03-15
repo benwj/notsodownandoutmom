@@ -1,5 +1,5 @@
 # default config
-baseurl = "https://notsodownandoutmom.com/"
+baseurl = "https://www.notsodownandoutmom.com/"
 languageCode = "en-us"
 title = "The Not So Down and Out Mom"
 theme = "parsa-hugo"
