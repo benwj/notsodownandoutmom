@@ -1,6 +1,6 @@
 ---
 title: "The Magic of Therapy"
-date: 2021-05-13
+date: 2021-05-12
 slug: down-syndrome-therapy
 comments: false
 type: "post"
