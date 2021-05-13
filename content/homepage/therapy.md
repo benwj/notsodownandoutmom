@@ -14,11 +14,11 @@ First, we had to schedule evaluations just to make sure that Vera even qualified
 
 ![therapy2](/therapy/therapy-2.png)
 
-### The Therapy Journey Begins
+#### The Therapy Journey Begins
 
 Vera was around three months old when she started PT.  With this, she was also seeing a private PT for her torticollis issues.  Also, she was seeing specialists for her heart, neck, eyes, and head (flat-headed baby right here!) At the same time, she started therapy sessions at [Stepping Stones](http://steppingstonesschoolnj.com/), a school for children with Down Syndrome. We were so lucky to learn about it because they have offered so much support for us and for Vera! So all of this put together sounds pretty overwhelming, right?  It was!  But, I’ll say it again: **it gets easier**.  Shortly after she started PT, our case manager was able to set us up with a great occupational therapist.  A few short months later, we were on the schedule for speech therapy, too! Our schedule was jam-packed, but at that time I was on a year-long maternity leave from work, our older son was in preschool every day, and my husband received three-months paternity leave.  All of these components really helped to alleviate the scheduling and logistical nightmares of all of these appointments.  
 
-### Let’s Make It Work
+#### Let’s Make It Work
 
 With all of the crazy scheduling how did we ever make it work?  That first year of Vera’s life is honestly such a blur, but I do believe I have at least a few words of wisdom to impart on new parents who are now in the position of having to figure out how to manage this crazy schedule.
 
