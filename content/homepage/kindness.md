@@ -37,15 +37,15 @@ A few weeks ago I found a meme online about a certain celebrity and a haircut th
 
 Okay, so why am I telling you all of this on a parenting blog?  Let me circle back to Miles at camp.  I don’t know what exactly was said to him that made him so upset.  The person who said it to him probably thought they were being funny and no one was around to tell him that it was not. What Miles did remember very clearly was that a few of his friends saw that he was upset and came up to him and helped him feel better (side note: I’m super grateful that my kid has found such a nice group of friends!) The kindness truly stood out in his mind more so than the rude comment the other child made. So, what does this mean for us as parents?  Well, I think it helps us to actually have meaningful conversations with our kids about how to approach situations like this.  What would a discussion about this look like?  Here are a few things you can say to your child:
 
-Has anyone ever been unkind to you?  How did that make you feel?
+1. Has anyone ever been unkind to you?  How did that make you feel?
 
-What are some smart ways you can respond to another person who has made you feel badly?
+2. What are some smart ways you can respond to another person who has made you feel badly?
 
-If you see someone being unkind to another person, what could you do as a bystander?
+3. If you see someone being unkind to another person, what could you do as a bystander?
 
-Why do you think that person chose to be mean?  Let’s think about what they might be feeling.
+4. Why do you think that person chose to be mean?  Let’s think about what they might be feeling.
 
-If you see a friend who looks lonely or upset, what could you do to help them?
+5. If you see a friend who looks lonely or upset, what could you do to help them?
 
 This is such a huge worry for most parents: “what happens when others are unkind to my child?”  I think sometimes it’s even more worrisome when you have a child with special needs.  Not every kid is taught at home how to be accepting to others that are very obviously different from them. The journey to kindness is not always an easy one.  I, for one, am still a work in progress.  But if you’re my friend or my family and you think I’m being unkind, call me out.  My only hope is that when someone is being hurtful to one of my kids, the bystanders will call them out.  
 
