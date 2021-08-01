@@ -11,10 +11,13 @@ There was an “incident” at my son’s camp a few weeks ago.  Well, I wouldn�
 
 Things seemed to be going well.  Every day after camp I’d ask him about his day.  I ask all of the usual questions: What activities did you do?  Did you eat a snack?  Who did you play with?  Were you nice to everyone?  Was everyone nice to you?  The answers have typically been the same: “I played outside, I ate my snack, I played with the kids from my class, I was nice to everyone, and everyone was nice to me.”  On one particular day, however, the answer to the last question was, “Well, not really.”
 
-> Not really?  What do you mean ‘not really’??
-> Well, one kid that I don’t really know was playing with us and called me a mean name.
-> What did he call you?  And what did you do after he said it?
-> I don’t remember what word he used, but I just walked away.
+_Not really?  What do you mean ‘not really’??_
+
+_Well, one kid that I don’t really know was playing with us and called me a mean name._
+
+_What did he call you?  And what did you do after he said it?_
+
+_I don’t remember what word he used, but I just walked away._
 
 At that moment I felt a little relieved for a few reasons.  I was glad that it was something more minor like name-calling that he barely remembers, and I was even more glad that he didn’t inherit his mom’s approach of snapping back at them like a crazy person.  With all of that said, though, I knew that his feelings were hurt.  I could hear it in his voice. **Someone said something to him and it brought him down**.  This whole exchange caused me to sit in my own thoughts and self-reflect a bit.
 
