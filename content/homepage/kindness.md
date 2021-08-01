@@ -1,6 +1,6 @@
 ---
 title: "A Reflection on Kindness"
-date: 2021-05-12
+date: 2021-07-31
 slug: kindness
 comments: false
 type: "post"
